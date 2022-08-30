@@ -1,0 +1,21 @@
+.b{
+    width: 320px;
+    height: 500px;
+    border: 9px solid yellow;
+    outline: 5px solid black;
+    
+}
+.b2{
+/* 
+    box-shadow: 450px -50px 0px black, 10px -90px 0px black,10px -140px 0px black ; */
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    margin-top: -50px;
+    margin-left: 10px;
+    box-shadow: 0px -45px 0px black,  0px -90px 0px black , 45px -45px 0px black , 45px -90px 0px black, 90px -90px 0px black  , 0px -135px 0px black , 45px -135px 0px black ,
+    0px -180px 0px black , 135px -45px 0px black , 180px -90px 0px black, 180px -45px 0px black,225px -45px 0px black,
+    270px -45px 0px black ,225px -90px 0px black,270px -90px 0px black , 180px -135px 0px black,225px -135px 0px black,270px -135px 0px black,180px -0px 0px black,225px -0px 0px black,
+    270px -0px 0px black , 135px -360px 0px black ,135px -315px 0px black ,135px -270px 0px black, 90px -360px 0px black;
+   
+}
